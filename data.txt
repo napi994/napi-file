@@ -1,2 +1,3 @@
 test menyimpan data sekolah
 belajar menggunakan github
+comit pertama
